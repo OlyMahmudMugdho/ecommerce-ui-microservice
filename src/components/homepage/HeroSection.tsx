@@ -8,6 +8,8 @@ function HeroSection() {
                 <Image
                     src={shopingCart}
                     alt="shopping cart"
+                    width={300}
+                    height={300}
                     className="max-w-sm rounded-lg" />
                 <div>
                     <h1 className="text-5xl font-bold">We want to make your wallet empty!</h1>
